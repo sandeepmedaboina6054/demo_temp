@@ -1,0 +1,4 @@
+git is a version control system.
+version control types are L-M-U, C-M-Me.
+First day complete git.
+second day html.
